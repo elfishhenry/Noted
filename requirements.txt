@@ -1,0 +1,4 @@
+py-cord[speed]==2.6.1
+ezcord==0.7.2
+python-dotenv
+cryptography==45.0.4
